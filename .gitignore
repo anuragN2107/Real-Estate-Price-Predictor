@@ -1,0 +1,16 @@
+# Ignore local data downloads
+*.csv
+*.xlsx
+Data/
+
+# Ignore Python and Jupyter notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.virtualenv/
+venv/
+env/
+
+# Ignore Operating System junk files
+.DS_Store
+Thumbs.db
