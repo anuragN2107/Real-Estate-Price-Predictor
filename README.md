@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 An end-to-end Machine Learning baseline project that predicts house values in King County, Washington, based on physical characteristics. Built entirely inside Google Colab using a standard data science lifecycle workflow.
 
@@ -58,4 +57,4 @@ The model assigns explicit financial weights to physical attributes. For example
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone (https://github.com/anuragN2107/Real-Estate-Price-Predictor.git)
